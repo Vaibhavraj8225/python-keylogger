@@ -1,4 +1,4 @@
-# Python Keylogger (Educational)
+# Python Keylogger Project (Educational)
 
 A simple keylogger built in Python using `pynput`.
 
