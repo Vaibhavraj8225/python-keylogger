@@ -1,0 +1,5 @@
+pynput
+
+command:- pip install pynput.
+	 	or
+	  sudo apt install python3-pynput.
